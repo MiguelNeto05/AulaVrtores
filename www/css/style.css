@@ -1,0 +1,22 @@
+/**/
+img {   border-radius: 15%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 8%;
+    margin-top: 3%;
+    box-shadow: 1px 1px 20px rgb(253, 213, 190);
+    }
+ 
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+ 
+.form-texto {
+    color: #000000;
+    font-size: 14px;
+    font-family: "Inter", sans-serif;
+    padding-left: 5%;
+}       
+
+body{
+background-color: white;
+}
